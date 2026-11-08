@@ -394,6 +394,12 @@
         "key": "VIP-MOKIIZZ",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8d474abbe02dd510",
+        "key": "VIP-AXEL",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
