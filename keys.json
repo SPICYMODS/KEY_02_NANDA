@@ -424,6 +424,12 @@
         "key": "VIP-DOLICHOPEZA",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f5b42d9798f5514a",
+        "key": "VIP-DOLISTORE",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
