@@ -430,6 +430,36 @@
         "key": "VIP-DOLISTORE",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6af7ea72695b181b",
+        "key": "VIP-DARKERROR",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "61bb467906669e21",
+        "key": "VIP-SISTEMERROR",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "57d68e7e51e25e14",
+        "key": "VIP-DEWANERROR",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dc3ed388b27b3a69",
+        "key": "VIP-VELCANTIK",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d34a92cad10c195e",
+        "key": "VIP-SUIERRO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
