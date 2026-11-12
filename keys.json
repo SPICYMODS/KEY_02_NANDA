@@ -406,6 +406,24 @@
         "key": "VIP-DOLIDEWACLAN",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1af713d08dbd4746",
+        "key": "VIP-FOS YUNGBLUD",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "366b9c4d7363695c",
+        "key": "VIP-PANDA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "3b44ffe055df8951",
+        "key": "VIP-DOLICHOPEZA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
